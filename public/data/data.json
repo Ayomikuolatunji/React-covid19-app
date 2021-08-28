@@ -1,0 +1,33 @@
+ [
+    {
+        "id":"1",
+        "name":"Biggie Turpcak",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nulla, aperiam quidem magni perspiciatis et quam distinctio eaque quos voluptatibus recusandae beatae dignissimos ullam. Totam quidem deleniti necessitatibus aperiam natus!",
+        "img":"img/e1.jpeg",
+        "price":"$10000"
+    },{
+        "id":"2",
+        "name":"John Turpcak",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nulla, aperiam quidem magni perspiciatis et quam distinctio eaque quos voluptatibus recusandae beatae dignissimos ullam. Totam quidem deleniti necessitatibus aperiam natus!",
+        "img":"img/e2.jpeg",
+        "price":"$20000"
+    },{
+        "id":"3",
+        "name":"Biggie Conjun",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nulla, aperiam quidem magni perspiciatis et quam distinctio eaque quos voluptatibus recusandae beatae dignissimos ullam. Totam quidem deleniti necessitatibus aperiam natus!",
+        "img":"img/e3.jpg",
+        "price":"$30000"
+    },{
+        "id":"4",
+        "name":"Glory echno",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nulla, aperiam quidem magni perspiciatis et quam distinctio eaque quos voluptatibus recusandae beatae dignissimos ullam. Totam quidem deleniti necessitatibus aperiam natus!",
+        "img":"img/e4.jpeg",
+        "price":"$40000"
+    },{
+        "id":"5",
+        "name":"Bager Packer",
+        "about":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit nulla, aperiam quidem magni perspiciatis et quam distinctio eaque quos voluptatibus recusandae beatae dignissimos ullam. Totam quidem deleniti necessitatibus aperiam natus!",
+        "img":"img/e5.jpeg",
+        "price":"$35000"
+    }
+]
